@@ -1,0 +1,104 @@
+ancien_chemin;nouveau_chemin
+Schema Banc BP_V4.PDF;carte-interface-SI841A/schema/schema-banc-bp-v4.pdf
+_Etude/Schema Banc BP v1.PDF;carte-interface-SI841A/schema/archives/schema-banc-bp-v1.pdf
+SI841A (version non routée envoyée à ARF Test)/SI841A_BOTTOM.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_BOTTOM.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Board.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Board.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Control_drill_file.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Control_drill_file.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Excellon2_drill_file_RoundHoles.drl;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Excellon2_drill_file_RoundHoles.drl
+SI841A (version non routée envoyée à ARF Test)/SI841A_Excellon2_drill_file_SlotHoles.drl;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Excellon2_drill_file_SlotHoles.drl
+SI841A (version non routée envoyée à ARF Test)/SI841A_IN1.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_IN1.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_IN2.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_IN2.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Mechanical.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Mechanical.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Paste_TOP.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Paste_TOP.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Silk_TOP.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Silk_TOP.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Soldermask_BOTTOM.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Soldermask_BOTTOM.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_Soldermask_TOP.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_Soldermask_TOP.gbr
+SI841A (version non routée envoyée à ARF Test)/SI841A_TOP.gbr;carte-interface-SI841A/gerber-non-route-envoye-arf-test/SI841A_TOP.gbr
+CI v5.pdf;carte-interface-SI841A/face-avant/ci-v5.pdf
+CI v5.ai;carte-interface-SI841A/face-avant/ci-v5.ai
+CI - Plan mécanique v1.pdf;carte-interface-SI841A/face-avant/ci-plan-mecanique-v1.pdf
+CI v1 (2000 - Maximum Editability).dwg;carte-interface-SI841A/face-avant/archives/ci-v1_2000-Maximum-Editability.dwg
+CI v1 (2000 - Preserve Appearance).dwg;carte-interface-SI841A/face-avant/archives/ci-v1_2000-Preserve-Appearance.dwg
+CI v1 (2000 - Preserve Appearance).dxf;carte-interface-SI841A/face-avant/archives/ci-v1_2000-Preserve-Appearance.dxf
+CI v1 (R13 - Preserve Appearance).dwg;carte-interface-SI841A/face-avant/archives/ci-v1_R13-Preserve-Appearance.dwg
+CI v1 (R14 - Preserve Appearance).dwg;carte-interface-SI841A/face-avant/archives/ci-v1_R14-Preserve-Appearance.dwg
+CI v1.ai;carte-interface-SI841A/face-avant/archives/ci-v1.ai
+CI v2 (2000 - Preserve Appearance).dwg;carte-interface-SI841A/face-avant/archives/ci-v2_2000-Preserve-Appearance.dwg
+CI v2 (2000 - Preserve Appearance).dxf;carte-interface-SI841A/face-avant/archives/ci-v2_2000-Preserve-Appearance.dxf
+CI v2 (page + grande que dessin).ai;carte-interface-SI841A/face-avant/archives/ci-v2_page-plus-grande-que-dessin.ai
+CI v3 (2000 - Preserve Appearence).dxf;carte-interface-SI841A/face-avant/archives/ci-v3_2000-Preserve-Appearance.dxf
+CI v3.ai;carte-interface-SI841A/face-avant/archives/ci-v3.ai
+CI v4 (2000-8-PNG-PA).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_2000-8-PNG-PA.dxf
+CI v4 (2000-8-PNG-PA-APFA).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_2000-8-PNG-PA-APFA.dxf
+CI v4 (2000-8-PNG-PA-APFA-OT).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_2000-8-PNG-PA-APFA-OT.dxf
+CI v4 (200456-8-PNG-PA).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_200456-8-PNG-PA.dxf
+CI v4 (200456-8-PNG-PA-APFA).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_200456-8-PNG-PA-APFA.dxf
+CI v4 (200456-8-PNG-PA-APFA-OT).dxf;carte-interface-SI841A/face-avant/archives/ci-v4_200456-8-PNG-PA-APFA-OT.dxf
+CI v4.ai;carte-interface-SI841A/face-avant/archives/ci-v4.ai
+Sérigraphie BP v1 (textes).ai;carte-interface-SI841A/serigraphie/serigraphie-bp-v1-textes.ai
+Sérigraphie BP v1 (vectorisé).ai;carte-interface-SI841A/serigraphie/serigraphie-bp-v1-vectorise.ai
+Sérigraphie tableau alims v1 (textes).ai;carte-interface-SI841A/serigraphie/serigraphie-tableau-alims-v1-textes.ai
+Sérigraphie tableau alims v1 (vectorisé).ai;carte-interface-SI841A/serigraphie/serigraphie-tableau-alims-v1-vectorise.ai
+SI944C - PT (noms) v1.PDF;points-de-test-SC944/si944c-pt-noms-v1.pdf
+SI944C - PT (emplacement) v3.pdf;points-de-test-SC944/si944c-pt-emplacement-v3.pdf
+_Archives/SI944C - Emplacement PT v1.PDF;points-de-test-SC944/archives/si944c-pt-emplacement-v1.pdf
+_Archives/SI944C - Emplacement PT v2.pdf;points-de-test-SC944/archives/si944c-pt-emplacement-v2.pdf
+_Etude/Spec soft test BP v4.doc;logiciel/spec-soft-test-bp-v4.doc
+_Etude/_Archives/Spec soft test BP v0.doc;logiciel/archives/spec-soft-test-bp-v0.doc
+_Etude/_Archives/Spec soft test BP v1.doc;logiciel/archives/spec-soft-test-bp-v1.doc
+_Etude/_Archives/Spec soft test BP v2.doc;logiciel/archives/spec-soft-test-bp-v2.doc
+_Etude/_Archives/Spec soft test BP v3.doc;logiciel/archives/spec-soft-test-bp-v3.doc
+_Etude/EPSON001.PDF;etude/croquis-alimentations-banc.pdf
+_Etude/EPSON002.PDF;etude/croquis-relais-230v.pdf
+_Etude/EPSON003.PDF;etude/croquis-relais-alim-bp.pdf
+_Etude/EPSON004.PDF;etude/croquis-implantation-mecanique.pdf
+_Etude/EPSON007.PDF;etude/mesures-analogiques-annexe-spec-v4.pdf
+_Etude/Scan ajout masses.PDF;etude/scan-ajout-masses.pdf
+_Etude/Scan connecteur prog DSP.PDF;etude/scan-connecteur-prog-dsp.pdf
+_Etude/Scan tableau test alims.jpeg;etude/scan-tableau-test-alims.jpeg
+_Etude/Calculs test signal sirènes v1.xlsx;etude/calculs-test-signal-sirenes-v1.xlsx
+_Archives/Câbles/Câbles v1.docx;etude/cables-v1.docx
+_Etude/Colonettes/FARNELL A2009(english)_030.pdf;datasheets/composants/colonnettes-farnell-a2009-p030.pdf
+_Etude/Diodes/Diodes Inc. - BAT54C (schottky double).pdf;datasheets/composants/diodes-inc-bat54c-schottky-double.pdf
+_Etude/LED/Kingbright - L-937EGW (LED bicolore R-V).pdf;datasheets/composants/kingbright-l-937egw-led-bicolore.pdf
+_Etude/Transistors/Diodes Inc. - ZXMN3A01F (MOS canal N).pdf;datasheets/composants/diodes-inc-zxmn3a01f-mos-canal-n.pdf
+Routeur/DIR_100_Datasheet_EN_DE.pdf;datasheets/routeur/DIR_100_Datasheet_EN_DE.pdf
+Routeur/DIR_100_Manual_RevD_DE.pdf;datasheets/routeur/DIR_100_Manual_RevD_DE.pdf
+Routeur/dfe-916dx_manual.pdf;datasheets/routeur/dfe-916dx_manual.pdf
+Compteur/Landis & Gyr/IS_031006_Compteur_Landis_EDF_Mono_90A_ZCD12602_court.pdf;datasheets/compteur-landis-gyr/IS_031006_Compteur_Landis_EDF_Mono_90A_ZCD12602_court.pdf
+Compteur/Landis & Gyr/IS_031006_Compteur_Landis_EDF_Mono_90A_ZCD12602_long.pdf;datasheets/compteur-landis-gyr/IS_031006_Compteur_Landis_EDF_Mono_90A_ZCD12602_long.pdf
+Photos/20161008_151500.jpg;photos/2016-10-08/20161008_151500.jpg
+Photos/20161008_151800.jpg;photos/2016-10-08/20161008_151800.jpg
+Photos/20161008_151822.jpg;photos/2016-10-08/20161008_151822.jpg
+Photos/IMG_5843.jpeg;photos/2026-11-09/IMG_5843.jpg
+Photos/IMG_5844.jpeg;photos/2026-11-09/IMG_5844.jpg
+Photos/IMG_5845.jpeg;photos/2026-11-09/IMG_5845.jpg
+Photos/IMG_5846.jpeg;photos/2026-11-09/IMG_5846.jpg
+Photos/IMG_5847.jpeg;photos/2026-11-09/IMG_5847.jpg
+Photos/IMG_5848.jpeg;photos/2026-11-09/IMG_5848.jpg
+Photos/IMG_5849.jpeg;photos/2026-11-09/IMG_5849.jpg
+Photos/IMG_5850.jpeg;photos/2026-11-09/IMG_5850.jpg
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/Image Interface.jpg;mecanique-arf-test-6281/Image Interface.jpg
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/_Index.html;mecanique-arf-test-6281/_Index.html
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/Photo interface.jpg;mecanique-arf-test-6281/Photo interface.jpg
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/BOM/6281_005 (Full).txt;mecanique-arf-test-6281/BOM/6281_005 (Full).txt
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/BOM/6281_005 (Recap).txt;mecanique-arf-test-6281/BOM/6281_005 (Recap).txt
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/Include/LOGO-ARF-Test.jpg;mecanique-arf-test-6281/Include/LOGO-ARF-Test.jpg
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_104 (Presse Basse PCB).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_104 (Presse Basse PCB).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_158 (Bottom Plate (320) SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_158 (Bottom Plate (320) SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_068 (Base Plate SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_068 (Base Plate SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_035 (Rear Panel SC94x).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_035 (Rear Panel SC94x).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_005 (ARF-PLC 320 - SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_005 (ARF-PLC 320 - SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_092 (Top SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_092 (Top SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_117 (Left Panel - V2).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_117 (Left Panel - V2).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_062 (Box ARF-PLC-03-V2).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_062 (Box ARF-PLC-03-V2).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_052 (Std Presser - 320 - V2).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_052 (Std Presser - 320 - V2).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_090 (Appli SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_090 (Appli SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_111 (Right Panel - V2).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_111 (Right Panel - V2).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_084 (Pusher plate SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_084 (Pusher plate SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_102 (Presse PCB).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_102 (Presse PCB).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Affaire/6281_091 (Bottom SC944).pdf;mecanique-arf-test-6281/ASM's Affaire/6281_091 (Bottom SC944).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Commun/8005_083 (Vis moletee).pdf;mecanique-arf-test-6281/ASM's Commun/8005_083 (Vis moletee).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Commun/6278_125 (Locating).pdf;mecanique-arf-test-6281/ASM's Commun/6278_125 (Locating).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Commun/6278_058 (Std Presser - 320 V2).pdf;mecanique-arf-test-6281/ASM's Commun/6278_058 (Std Presser - 320 V2).pdf
+6281 - ARF-PLCe 320 - SC944 (dossier étude ARF Test)/ASM's Commun/8005_016 (Switch PLC_V2).pdf;mecanique-arf-test-6281/ASM's Commun/8005_016 (Switch PLC_V2).pdf

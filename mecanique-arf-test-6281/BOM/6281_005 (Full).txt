@@ -1,0 +1,545 @@
+=
+!Radical: 6281_005
+!Désignation: ARF-PLC 320 - SC944
+!Type: Assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+   -      1x Std Presser - 320 - V2         6281_052(A)                     6281_052                  ARF-Test
+   -      1x Std Presser - 320 V2           6278_058(A)                     6278_058                  ARF-Test
+   -      1x Rear Panel SC94x               6281_035(A)                     6281_035                  ARF-Test
+VIS-CHC   6x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+   -      1x Appli SC944                    6281_090(A)                     6281_090                  ARF-Test
+  --  -   1x Pusher plate SC944             6281_084(A)-                    6281_084                  ARF-Test         -
+  --  -   1x Switch PLC_V2                  8005_016(A)-                    8005_016                  ARF-Test         -
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 005: 12
+=
+!Radical: 6281_052
+!Désignation: Std Presser - 320 - V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+   -      1x Box ARF-PLC-03-V2              6281_062(A)                     6281_062                  ARF-Test
+   -      1x Top Plate - 320                8005_262(A)                     8005_262                  ARF-Test
+VIS-CHC   6x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 052: 8
+=
+!Radical: 6281_062
+!Désignation: Box ARF-PLC-03-V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+   -      1x Front Panel SC944              6281_202(A)                     6281_202                  ARF-Test
+  --  -   1x Right Panel - V2               6281_111(A)                     6281_111                  ARF-Test
+VIS-CHC   4x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+   -      1x Rear Plate                     8005_232(A)                     8005_232                  ARF-Test
+MEC-MON   2x Hinge U 50x18                      _   (-)-                    6213300                   Pinet Industrie
+VIS-CHC   6x Vis Chc M3x6 (ISO 4762)            _   (-)Inox                 CHC M3x6                  Inter-Inox
+  --  -   1x Left Panel - V2                6281_117(A)                     6281_117                  ARF-Test
+   -      1x Base Plate SC944               6281_068(A)                     6281_068                  ARF-Test
+VIS-FHC   6x Vis FHc M3x8 (DIN 7991)            _   (-)Inox                 FHC M3x8                  Inter-Inox
+VIS-CHC   4x Vis Chc M3x5 (ISO 4762)            _   (-)Inox                 CHC M3x5                  Inter-Inox
+MEC-ARF   2x Stabilisateur                  8005_400(A)Kompact Blanc 10mm   8005_400                  ARF-Test         -
+VIS-CHC   4x Vis Chc M4x25 (ISO 4762)           _   (-)Inox                 CHC M4x25                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 062: 33
+=
+!Radical: 6281_202
+!Désignation: Front Panel SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Front Plate SC944              6281_202(A)Kompact              6281_202                  ARF-Test         -
+ETU-ETU   1x                                    _   ( )
+VIS-ECR   4x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 202: 6
+=
+!Radical: 6281_111
+!Désignation: Right Panel - V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Right Panel - V2               6281_111(A)Kompack Blanc 10mm   6281_111                  ARF-Test         -
+MEC-MAN   1x POIGNEE AFFLEURANTE                _   (-)ABS noir             11-220-18 127             Southco
+VIS-ECR   9x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+MEC-MON   2x Expansion Insert M3 (Plastic)      _   (-)PC851                0832 103 0005             Bollhoff - AMTEC
+VIS-CHC   1x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+MEC-MON   1x Left Flap Stay                     _   (-)-                    24-1-3311                 Pinet Industrie
+VIS-CHC   2x Vis Chc M3x8 (ISO 4762)            _   (-)Inox                 CHC M3x8                  Inter-Inox
+  --  -   1x Vis moletee                    8005_083(A)                     8005_083                  ARF-Test
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 111: 18
+=
+!Radical: 8005_083
+!Désignation: Vis moletee
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+VIS-CHC   1x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+MEC-MAN   1x Knurled Knob M4/C17                _   (-)-                    038040159905              Skiffy
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 8005 083: 2
+=
+!Radical: 8005_232
+!Désignation: Rear Plate
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Rear Plate - 320 - V2          8005_232(A)Kompact              8005_232                  ARF-Test         -
+MEC-MON   6x Expansion Insert M4 (Plastic)      _   (-)PC851                0833 104 0008             Bollhoff - AMTEC
+MEC-MON   6x Expansion Insert M3 (Plastic)      _   (-)PC851                0832 103 0005             Bollhoff - AMTEC
+VIS-ECR   4x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 8005 232: 17
+=
+!Radical: 6281_117
+!Désignation: Left Panel - V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Left Panel - V2                6281_117(A)Kompack Blanc 10mm   6281_117                  ARF-Test         -
+MEC-MAN   1x POIGNEE AFFLEURANTE                _   (-)ABS noir             11-220-18 127             Southco
+VIS-ECR   9x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+MEC-MON   2x Expansion Insert M3 (Plastic)      _   (-)PC851                0832 103 0005             Bollhoff - AMTEC
+VIS-CHC   1x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+MEC-MON   1x Right Flap Stay                    _   (-)-                    24-1-3312                 Pinet Industrie
+VIS-CHC   2x Vis Chc M3x8 (ISO 4762)            _   (-)Inox                 CHC M3x8                  Inter-Inox
+  --  -   1x Vis moletee                    8005_083(A)                     8005_083                  ARF-Test
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 117: 18
+=
+!Radical: 6281_068
+!Désignation: Base Plate SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+  --  -   1x Bottom Plate (320) SC944       6281_158(A)                     6281_158                  ARF-Test
+VIS-FHC   7x Vis FHc M3x8 (DIN 7991)            _   (-)Inox                 FHC M3x8                  Inter-Inox
+MEC-ARF   1x Raidisseur Charnières 320      8005_267(A)Kompact              8005_267                  ARF-Test         -
+VIS-ENT  22x Entret. Hex. M/F M3x5 clé 5        _   (-)S300Pb               304 3050 411 52           SKIFFY
+PCB-CIE   1x Carte Clavier                      _   ( )-                    SI841AA                   Valentinéa
+   -      1x Rail DIN                           _   ( )-                    6281_106                  -
+VIS-RON   3x Rond. Plate L D3 (DIN 9021)        _   (-)Inox                 RL D3                     Inter-Inox
+VIS-CHC   3x Vis Chc M3x10 (ISO 4762)           _   (-)Inox                 CHC M3x10                 Inter-Inox
+MAT-ALI   1x Alim rail DIN 24V                  _   ( )-                    DSP30-24                  TDK LAMBDA
+MAT-ALI   1x Alim rail DIN 12V                  _   ( )-                    DSP60-12                  TDK LAMBDA
+MAT-CLI   1x Routeur                            _   ( )-                    DIR 100                   Dlink
+MAT-ALI   1x Alim rail DIN 5V                   _   ( )-                    DSP10-5                   TDK LAMBDA
+VIS-CHC  19x Vis Chc M3x5 (ISO 4762)            _   (-)Inox                 CHC M3x5                  Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 068: 62
+=
+!Radical: 6281_158
+!Désignation: Bottom Plate (320) SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Bottom Plate (320) SC944       6281_158(A)Kompack Blanc 10mm   6281_158                  ARF-Test         -
+MEC-MAN   6x Pied d4,3/D20x10                   _   (-)Polyvinychlorure     048 2000 114 07           Skiffy
+VIS-RON   6x Rond. Plate Z D4 (NFE 25514)       _   (-)Inox                 RZ D4                     Inter-Inox
+VIS-ECR  14x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+VIS-CHC  14x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+MEC-ARF   4x Fixation Box - V2              8005_175(B)Kompact              8005_175                  ARF-Test         -
+MEC-ARF   2x Bottom Plate Locker            8005_205(A)Kompact              8005_205                  ARF-Test         -
+VIS-CHC   4x Vis Chc M3x20 (ISO 4762)           _   (-)Inox                 CHC M3x20                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 158: 51
+=
+!Radical: 8005_262
+!Désignation: Top Plate - 320
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Upper Plate - 320 - V2         8005_262(A)Kompack Blanc 10mm   8005_262                  ARF-Test         -
+MEC-MON   8x Expansion Insert M4 (Plastic)      _   (-)PC851                0833 104 0008             Bollhoff - AMTEC
+MEC-ARF   2x Spare Locker                   8005_128(A)Kompack Blanc 10mm   8005_128                  ARF-Test         -
+VIS-CHC   4x Vis Chc M4x12 (ISO 4762)           _   (-)Inox                 CHC M4x12                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 8005 262: 15
+=
+!Radical: 6278_058
+!Désignation: Std Presser - 320 V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Right Internal Side - V2       8005_179(A)Kompack Gris         8005_179                  ARF-Test         -
+VIS-ENT  10x Entret. Lisse d4,3x20 D8           _   (-)Laiton               311 4320 400 50           SKIFFY
+MEC-ARF   1x Right External Side - V2       8005_208(A)Kompack Gris         8005_208                  ARF-Test         -
+VIS-RON  10x Rond. Plate M D4 (NFE 25514)       _   (-)Inox                 RM D4                     Inter-Inox
+VIS-CHC  10x Vis Chc M4x35 (ISO 4762)           _   (-)Inox                 CHC M4x35                 Inter-Inox
+VIS-RON   8x Rond. Plate L D4 (DIN 9021)        _   (-)Inox                 RL d4                     Inter-Inox
+VIS-CHC   8x Vis Chc M4x20 (ISO 4762)           _   (-)Inox                 CHC M4x20                 Inter-Inox
+MEC-ARF   1x Left Internal Side - V2        8005_181(A)Kompack Gris         8005_181                  ARF-Test         -
+MEC-ARF   1x Left External Side - V2        8005_212(A)Kompack Gris         8005_212                  ARF-Test         -
+MEC-DEC   8x Entretoise Guide               5810_106(A)Delrin noir          5810_106                  ARF-Test         -
+MEC-ARF   1x Right Lever Arm - V2           8005_301(A)Kompack Gris         8005_301                  ARF-Test         -
+VIS-ECR   8x Vis fourreau 15x18 M6              _   (-)Acier Bruni          035618047                 RAMPA
+VIS-TBH   6x Vis TBHc M6x16                     _   (-)-                    TBHC M6x16                Emile Maurin
+MEC-DEC   8x Entretoise ecrasement          8005_110(B)Tube Alu d6/D8       8005_110                  ARF-Test         -
+VIS-GOU   6x Goupille Cyl. D5x16 m6 (DIN 7)     _   (-)Inox                 GD 5x16                   Inter-Inox
+MEC-ARF   2x Middle Lever Arm               8005_210(A)Kompack Blanc        8005_210                  ARF-Test         -
+MEC-MOD   2x Middle Strongback - 320        8005_222(A)Alu Nat. 0 0 370 03  8005_222                  ELCOM            -
+VIS-ECR   8x Ecrou M4 pour profil de 5          _   (-)Acier Zingue         0-0-370-06                ELCOM
+VIS-HBC   6x Vis TBHc M5x20                     _   (-)-                    TBHc M5x20                Inter-Inox
+MEC-ARF   1x Left Lever Arm - V2            8005_302(A)Compack Gris         8005_302                  ARF-Test         -
+MEC-ARF   2x Hinge's Arm                    8005_112(A)Kompack Blanc 10mm   8005_112                  ARF-Test         -
+MEC-DEC   4x Spring Support                 8005_183(B)Inox 304L            8005_183                  ARF-Test         -
+MEC-RES   2x Traction D0:12, d:1.1, 0.46N:m     _   ( )Corde a piano        T31760                    SPEC
+MEC-RES   2x Ressort comp F=11,4N C=8,7mm       _   (-)Acier DIN 17223      D21370                    SPEC
+VIS-ENT   2x Entret. Lisse d5.3xD10x15          _   (-)Laiton               311 5315 400 50           SKIFFY
+TOL-BRU   2x Washer d5xD9.5x0.3             8005_130(A)Clinquant inox 0.3   8005_130                  ARF-Test         -
+VIS-RON   2x Rond. Plate M D5 (NFE 25514)       _   (-)Inox                 RM D5                     Inter-Inox
+VIS-CHC   2x Vis Chc M5 x 30 (ISO 4762)         _   (-)Inox                 CHC M5x30                 Inter-Inox
+MEC-ARF   1x Right Locker - V2              8005_129(A)Compack Blanc 10mm   8005_129                  ARF-Test         -
+MEC-MOD   1x Front Handle - 320             8005_223(A)Alu Nat. 0 0 370 03  8005_223                  ELCOM            -
+MEC-ARF   1x Left Locker - V2               8005_216(A)Compack Blanc ep 10m 8005_216                  ARF-Test         -
+VIS-GOU   2x Goupille Cyl. D4x12 m6 (DIN 7)     _   (-)Inox                 GD 4x12                   Inter-Inox
+MEC-MOD   1x Middle Stiffener - 320         8005_221(A)Alu Nat. 0 0 370 03  8005_221                  ELCOM            -
+MEC-FRA   2x Kit Poignee                    8005_140(B)Delrin Noir ou PVC N 8005_140                  ARF-Test         -
+VIS-CHC   4x Vis Chc M4x10 (ISO 4762)           _   (-)Inox                 CHC M4x10                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6278 058: 136
+=
+!Radical: 6281_035
+!Désignation: Rear Panel SC94x
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Rear Panel SC944               6281_204(A)Kompack 60/10°       6281_204                  ARF-Test         -
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 035: 1
+=
+!Radical: 6281_090
+!Désignation: Appli SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+  --  -   1x Bottom SC944                   6281_091(A)                     6281_091                  ARF-Test
+  --  -   1x Top SC944                      6281_092(A)                     6281_092                  ARF-Test
+MEC-DEC   2x Axe guide                      5836_110(B)Inox 304L            5836_110                  ARF-Test
+VIS-RON   2x Rond. Plate M D4 (NFE 25514)       _   (-)Inox                 RM D4                     Inter-Inox
+VIS-CHC   2x Vis Chc M4x10 (ISO 4762)           _   (-)Inox                 CHC M4x10                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 090: 8
+=
+!Radical: 6281_091
+!Désignation: Bottom SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Bottom SC944                   6281_116(A)Kompack Blanc 10mm   6281_116                  ARF-Test         -
+MEC-TRL   2x Coussinet Lubrif. d10/D12/L20      _   (-)Glycodur             GLYG101220F               SKF
+MEC-RES   4x Ressort comp F=33,15N C=9mm        _   (-)Acier DIN 17223      D11960                    SPEC
+POI-FOU  76x Fourreau F100 - Ht10 (Wrap)        _   (-)-                    H100WW10/10.0             Feinmetall
+POI-POI  70x Pointe longue Multi-dents (180     _   ( )-                    F10006B150G180L           Feinmetall
+POI-POI   6x Pointe longue pointue (180gr)      _   (-)-                    F10033S090L180L           Feinmetall
+MEC-TOU   1x Switch Probe Support           5727_113(A)PVC noir             5727_113                  ARF-Test         -
+POI-FOU   1x Fourreau KS113 pour pointe SKS     _   (-)-                    KS-113 23                 INGUN
+POI-SKS   1x Entretoise Ht=5                    _   (-)-                    DS113_05                  INGUN
+POI-SKS   1x Pointe de test "switch"            _   (-)-                    SKS425002300A2502E        INGUN
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 091: 163
+=
+!Radical: 6281_092
+!Désignation: Top SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Top SC944                      6281_118(A)Kompack Blanc 10mm   6281_118                  ARF-Test         -
+MEC-DEC   8x Guide PCB                      5497_106(B)Delrin noir          5497_106                  ARF-Test         -
+VIS-CHC   8x Vis Chc M3x16 (ISO 4762)           _   (-)Inox                 CHC M3x16                 Inter-Inox
+MEC-TOU   2x Locating                       6278_125(A)Inox 304L            6278_125                  ARF-Test         -
+VIS-CHC   2x Vis Chc M3x6 (ISO 4762)            _   (-)Inox                 CHC M3x6                  Inter-Inox
+VIS-CHC   6x Vis Chc M5x10 (ISO 4762)           _   (-)Inox                 CHC_5X10                  Inter-Inox
+EMB-ETI   1x Grey ID Sticker 50,8x25,4          _   (A)-                    THT 17 408 3              Brady            -
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 092: 28
+=
+!Radical: 6281_084
+!Désignation: Pusher plate SC944
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Plate pusher SC944             6281_134(A)PC epaisseur 10      6281_134                  ARF-Test         -
+VIS-RON   6x Rond. Plate L D4 (DIN 9021)        _   (-)Inox                 RL d4                     Inter-Inox
+VIS-CHC   6x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+VIS-ECR   6x Ecrou M4 pour profil de 5          _   (-)Acier Zingue         0-0-370-06                ELCOM
+   -      1x Presse PCB                     6281_102(A)                     6281_102                  ARF-Test
+VIS-RON  11x Rond. Plate M D4 (NFE 25514)       _   (-)Inox                 RM D4                     Inter-Inox
+VIS-CHC   8x Vis Chc M4x20 (ISO 4762)           _   (-)Inox                 CHC M4x20                 Inter-Inox
+   -      1x Presse Basse PCB               6281_104(A)                     6281_104                  ARF-Test
+VIS-RON   2x Rond. Plate M D3 (NFE 25514)       _   (-)Inox                 RM D3                     Inter-Inox
+VIS-CHC   2x Vis Chc M3x16 (ISO 4762)           _   (-)Inox                 CHC M3x16                 Inter-Inox
+VIS-ENT   2x Entret. Hex. M/F M3x25 clé 5       _   (-)S300Pb               304 3250 411 52           SKIFFY
+MEC-DEC   2x Butee PCB                      5889_111(A)POM Blanc            5889_111                  ARF-Test         -
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 084: 48
+=
+!Radical: 6281_102
+!Désignation: Presse PCB
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Presse PCB                     6281_102(A)Kompact              6281_102                  ARF-Test         -
+VIS-ECR   5x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 102: 6
+=
+!Radical: 6281_104
+!Désignation: Presse Basse PCB
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Presse Basse PCB               6281_104(A)Kompact              6281_104                  ARF-Test         -
+VIS-ECR   3x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 6281 104: 4
+=
+!Radical: 8005_016
+!Désignation: Switch PLC_V2
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Locker Guide                   8005_195(B)Kompack Gris         8005_195                  ARF-Test         -
+VIS-CHC   2x Vis Chc M3x16 (ISO 4762)           _   (-)Inox                 CHC M3x16                 Inter-Inox
+MEC-ARF   1x Switch Support                 8005_196(B)Kompack Blanc        8005_196                  ARF-Test         -
+  --  -   1x B.P. presence produit          5430_037(A)-                    5430_037                  ARF-Test         -
+VIS-CHC   2x Vis Chc M3x30 (ISO 4762)           _   (-)Inox                 CHC M3x30                 Inter-Inox
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 8005 016: 7
+=
+!Radical: 5430_037
+!Désignation: B.P. presence produit
+!Type: Sous-assemblage constitué de:
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+==3456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+ELM-INT   1x Body Panel Switch 1xRT             _   (-)-                    V4NT7                     SAIA Burgess
+ELM-INT   1x Head Panel Switch                  _   ( )-                    QA4                       SAIA Burgess
+========================================================================================================================
+!Fin ASM (Fin de la liste des pièces de l'Assemblage)
+= NOMBRE TOTAL DE PIECES de l'ensemble 5430 037: 2
+========================================================================================================================
+=
+!Radical: 6281_005
+!Désignation: ARF-PLC 320 - SC944
+!Type: Récapitulatif BOM
+=
+=========1=========2=========3=========4=========5=========6=========7=========8=========9========10========11========12
+=23456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890
+==--------------------------------------------------------------------------------------------------------------------==
+=Fm-SsF  Qté Désignation                    Rad._Id  I Matière              Référence Fabricant       Fabricant        C
+========================================================================================================================
+MEC-ARF   1x Front Plate SC944              6281_202(A)Kompact              6281_202                  ARF-Test         -
+ETU-ETU   1x                                    _   ( )
+VIS-ECR  48x Ecrou Hex. M4 (ISO 4032)           _   (-)Inox                 HU4                       Inter-Inox
+MEC-ARF   1x Right Panel - V2               6281_111(A)Kompack Blanc 10mm   6281_111                  ARF-Test         -
+MEC-MAN   2x POIGNEE AFFLEURANTE                _   (-)ABS noir             11-220-18 127             Southco
+MEC-MON  10x Expansion Insert M3 (Plastic)      _   (-)PC851                0832 103 0005             Bollhoff - AMTEC
+VIS-CHC  40x Vis Chc M4x16 (ISO 4762)           _   (-)Inox                 CHC M4x16                 Inter-Inox
+MEC-MON   1x Left Flap Stay                     _   (-)-                    24-1-3311                 Pinet Industrie
+VIS-CHC   4x Vis Chc M3x8 (ISO 4762)            _   (-)Inox                 CHC M3x8                  Inter-Inox
+MEC-MAN   2x Knurled Knob M4/C17                _   (-)-                    038040159905              Skiffy
+MEC-ARF   1x Rear Plate - 320 - V2          8005_232(A)Kompact              8005_232                  ARF-Test         -
+MEC-MON  14x Expansion Insert M4 (Plastic)      _   (-)PC851                0833 104 0008             Bollhoff - AMTEC
+MEC-MON   2x Hinge U 50x18                      _   (-)-                    6213300                   Pinet Industrie
+VIS-CHC   8x Vis Chc M3x6 (ISO 4762)            _   (-)Inox                 CHC M3x6                  Inter-Inox
+MEC-ARF   1x Left Panel - V2                6281_117(A)Kompack Blanc 10mm   6281_117                  ARF-Test         -
+MEC-MON   1x Right Flap Stay                    _   (-)-                    24-1-3312                 Pinet Industrie
+MEC-ARF   1x Bottom Plate (320) SC944       6281_158(A)Kompack Blanc 10mm   6281_158                  ARF-Test         -
+MEC-MAN   6x Pied d4,3/D20x10                   _   (-)Polyvinychlorure     048 2000 114 07           Skiffy
+VIS-RON   6x Rond. Plate Z D4 (NFE 25514)       _   (-)Inox                 RZ D4                     Inter-Inox
+MEC-ARF   4x Fixation Box - V2              8005_175(B)Kompact              8005_175                  ARF-Test         -
+MEC-ARF   2x Bottom Plate Locker            8005_205(A)Kompact              8005_205                  ARF-Test         -
+VIS-CHC   4x Vis Chc M3x20 (ISO 4762)           _   (-)Inox                 CHC M3x20                 Inter-Inox
+VIS-FHC  13x Vis FHc M3x8 (DIN 7991)            _   (-)Inox                 FHC M3x8                  Inter-Inox
+MEC-ARF   1x Raidisseur Charnières 320      8005_267(A)Kompact              8005_267                  ARF-Test         -
+VIS-ENT  22x Entret. Hex. M/F M3x5 clé 5        _   (-)S300Pb               304 3050 411 52           SKIFFY
+PCB-CIE   1x Carte Clavier                      _   ( )-                    SI841AA                   Valentinéa
+   -      1x Rail DIN                           _   ( )-                    6281_106                  -
+VIS-RON   3x Rond. Plate L D3 (DIN 9021)        _   (-)Inox                 RL D3                     Inter-Inox
+VIS-CHC   3x Vis Chc M3x10 (ISO 4762)           _   (-)Inox                 CHC M3x10                 Inter-Inox
+MAT-ALI   1x Alim rail DIN 24V                  _   ( )-                    DSP30-24                  TDK LAMBDA
+MAT-ALI   1x Alim rail DIN 12V                  _   ( )-                    DSP60-12                  TDK LAMBDA
+MAT-CLI   1x Routeur                            _   ( )-                    DIR 100                   Dlink
+MAT-ALI   1x Alim rail DIN 5V                   _   ( )-                    DSP10-5                   TDK LAMBDA
+VIS-CHC  23x Vis Chc M3x5 (ISO 4762)            _   (-)Inox                 CHC M3x5                  Inter-Inox
+MEC-ARF   2x Stabilisateur                  8005_400(A)Kompact Blanc 10mm   8005_400                  ARF-Test         -
+VIS-CHC   4x Vis Chc M4x25 (ISO 4762)           _   (-)Inox                 CHC M4x25                 Inter-Inox
+MEC-ARF   1x Upper Plate - 320 - V2         8005_262(A)Kompack Blanc 10mm   8005_262                  ARF-Test         -
+MEC-ARF   2x Spare Locker                   8005_128(A)Kompack Blanc 10mm   8005_128                  ARF-Test         -
+VIS-CHC   4x Vis Chc M4x12 (ISO 4762)           _   (-)Inox                 CHC M4x12                 Inter-Inox
+MEC-ARF   1x Right Internal Side - V2       8005_179(A)Kompack Gris         8005_179                  ARF-Test         -
+VIS-ENT  10x Entret. Lisse d4,3x20 D8           _   (-)Laiton               311 4320 400 50           SKIFFY
+MEC-ARF   1x Right External Side - V2       8005_208(A)Kompack Gris         8005_208                  ARF-Test         -
+VIS-RON  23x Rond. Plate M D4 (NFE 25514)       _   (-)Inox                 RM D4                     Inter-Inox
+VIS-CHC  10x Vis Chc M4x35 (ISO 4762)           _   (-)Inox                 CHC M4x35                 Inter-Inox
+VIS-RON  14x Rond. Plate L D4 (DIN 9021)        _   (-)Inox                 RL d4                     Inter-Inox
+VIS-CHC  16x Vis Chc M4x20 (ISO 4762)           _   (-)Inox                 CHC M4x20                 Inter-Inox
+MEC-ARF   1x Left Internal Side - V2        8005_181(A)Kompack Gris         8005_181                  ARF-Test         -
+MEC-ARF   1x Left External Side - V2        8005_212(A)Kompack Gris         8005_212                  ARF-Test         -
+MEC-DEC   8x Entretoise Guide               5810_106(A)Delrin noir          5810_106                  ARF-Test         -
+MEC-ARF   1x Right Lever Arm - V2           8005_301(A)Kompack Gris         8005_301                  ARF-Test         -
+VIS-ECR   8x Vis fourreau 15x18 M6              _   (-)Acier Bruni          035618047                 RAMPA
+VIS-TBH   6x Vis TBHc M6x16                     _   (-)-                    TBHC M6x16                Emile Maurin
+MEC-DEC   8x Entretoise ecrasement          8005_110(B)Tube Alu d6/D8       8005_110                  ARF-Test         -
+VIS-GOU   6x Goupille Cyl. D5x16 m6 (DIN 7)     _   (-)Inox                 GD 5x16                   Inter-Inox
+MEC-ARF   2x Middle Lever Arm               8005_210(A)Kompack Blanc        8005_210                  ARF-Test         -
+MEC-MOD   2x Middle Strongback - 320        8005_222(A)Alu Nat. 0 0 370 03  8005_222                  ELCOM            -
+VIS-ECR  14x Ecrou M4 pour profil de 5          _   (-)Acier Zingue         0-0-370-06                ELCOM
+VIS-HBC   6x Vis TBHc M5x20                     _   (-)-                    TBHc M5x20                Inter-Inox
+MEC-ARF   1x Left Lever Arm - V2            8005_302(A)Compack Gris         8005_302                  ARF-Test         -
+MEC-ARF   2x Hinge's Arm                    8005_112(A)Kompack Blanc 10mm   8005_112                  ARF-Test         -
+MEC-DEC   4x Spring Support                 8005_183(B)Inox 304L            8005_183                  ARF-Test         -
+MEC-RES   2x Traction D0:12, d:1.1, 0.46N:m     _   ( )Corde a piano        T31760                    SPEC
+MEC-RES   2x Ressort comp F=11,4N C=8,7mm       _   (-)Acier DIN 17223      D21370                    SPEC
+VIS-ENT   2x Entret. Lisse d5.3xD10x15          _   (-)Laiton               311 5315 400 50           SKIFFY
+TOL-BRU   2x Washer d5xD9.5x0.3             8005_130(A)Clinquant inox 0.3   8005_130                  ARF-Test         -
+VIS-RON   2x Rond. Plate M D5 (NFE 25514)       _   (-)Inox                 RM D5                     Inter-Inox
+VIS-CHC   2x Vis Chc M5 x 30 (ISO 4762)         _   (-)Inox                 CHC M5x30                 Inter-Inox
+MEC-ARF   1x Right Locker - V2              8005_129(A)Compack Blanc 10mm   8005_129                  ARF-Test         -
+MEC-MOD   1x Front Handle - 320             8005_223(A)Alu Nat. 0 0 370 03  8005_223                  ELCOM            -
+MEC-ARF   1x Left Locker - V2               8005_216(A)Compack Blanc ep 10m 8005_216                  ARF-Test         -
+VIS-GOU   2x Goupille Cyl. D4x12 m6 (DIN 7)     _   (-)Inox                 GD 4x12                   Inter-Inox
+MEC-MOD   1x Middle Stiffener - 320         8005_221(A)Alu Nat. 0 0 370 03  8005_221                  ELCOM            -
+MEC-FRA   2x Kit Poignee                    8005_140(B)Delrin Noir ou PVC N 8005_140                  ARF-Test         -
+VIS-CHC   6x Vis Chc M4x10 (ISO 4762)           _   (-)Inox                 CHC M4x10                 Inter-Inox
+MEC-ARF   1x Rear Panel SC944               6281_204(A)Kompack 60/10°       6281_204                  ARF-Test         -
+MEC-ARF   1x Bottom SC944                   6281_116(A)Kompack Blanc 10mm   6281_116                  ARF-Test         -
+MEC-TRL   2x Coussinet Lubrif. d10/D12/L20      _   (-)Glycodur             GLYG101220F               SKF
+MEC-RES   4x Ressort comp F=33,15N C=9mm        _   (-)Acier DIN 17223      D11960                    SPEC
+POI-FOU  76x Fourreau F100 - Ht10 (Wrap)        _   (-)-                    H100WW10/10.0             Feinmetall
+POI-POI  70x Pointe longue Multi-dents (180     _   ( )-                    F10006B150G180L           Feinmetall
+POI-POI   6x Pointe longue pointue (180gr)      _   (-)-                    F10033S090L180L           Feinmetall
+MEC-TOU   1x Switch Probe Support           5727_113(A)PVC noir             5727_113                  ARF-Test         -
+POI-FOU   1x Fourreau KS113 pour pointe SKS     _   (-)-                    KS-113 23                 INGUN
+POI-SKS   1x Entretoise Ht=5                    _   (-)-                    DS113_05                  INGUN
+POI-SKS   1x Pointe de test "switch"            _   (-)-                    SKS425002300A2502E        INGUN
+MEC-ARF   1x Top SC944                      6281_118(A)Kompack Blanc 10mm   6281_118                  ARF-Test         -
+MEC-DEC   8x Guide PCB                      5497_106(B)Delrin noir          5497_106                  ARF-Test         -
+VIS-CHC  12x Vis Chc M3x16 (ISO 4762)           _   (-)Inox                 CHC M3x16                 Inter-Inox
+MEC-TOU   2x Locating                       6278_125(A)Inox 304L            6278_125                  ARF-Test         -
+VIS-CHC   6x Vis Chc M5x10 (ISO 4762)           _   (-)Inox                 CHC_5X10                  Inter-Inox
+EMB-ETI   1x Grey ID Sticker 50,8x25,4          _   (A)-                    THT 17 408 3              Brady            -
+MEC-DEC   2x Axe guide                      5836_110(B)Inox 304L            5836_110                  ARF-Test
+MEC-ARF   1x Plate pusher SC944             6281_134(A)PC epaisseur 10      6281_134                  ARF-Test         -
+MEC-ARF   1x Presse PCB                     6281_102(A)Kompact              6281_102                  ARF-Test         -
+MEC-ARF   1x Presse Basse PCB               6281_104(A)Kompact              6281_104                  ARF-Test         -
+VIS-RON   2x Rond. Plate M D3 (NFE 25514)       _   (-)Inox                 RM D3                     Inter-Inox
+VIS-ENT   2x Entret. Hex. M/F M3x25 clé 5       _   (-)S300Pb               304 3250 411 52           SKIFFY
+MEC-DEC   2x Butee PCB                      5889_111(A)POM Blanc            5889_111                  ARF-Test         -
+MEC-ARF   1x Locker Guide                   8005_195(B)Kompack Gris         8005_195                  ARF-Test         -
+MEC-ARF   1x Switch Support                 8005_196(B)Kompack Blanc        8005_196                  ARF-Test         -
+ELM-INT   1x Body Panel Switch 1xRT             _   (-)-                    V4NT7                     SAIA Burgess
+ELM-INT   1x Head Panel Switch                  _   ( )-                    QA4                       SAIA Burgess
+VIS-CHC   2x Vis Chc M3x30 (ISO 4762)           _   (-)Inox                 CHC M3x30                 Inter-Inox
+========================================================================================================================
+!Fin REC (Fin du fichier BOM (Bill Of Material))
+
+
+
