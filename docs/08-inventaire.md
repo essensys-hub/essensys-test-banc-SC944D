@@ -32,14 +32,15 @@ Fichiers ajoutés : `README.md`, `docs/`, `logiciel/spec-soft-test-bp-v4.md`, `.
 | `face-avant/ci-v5.ai` et `face-avant/archives/ci-v4.ai` | Identiques octet pour octet |
 | Les six DXF `ci-v4_*.dxf` | Contenus différents (options d'export), tous conservés |
 
+## Ce qui est ailleurs
+
+Le dépôt public `essensys-board-SC841A` contient ce qui manque à ces archives : le projet Altium de la SI841A, ses Gerber routés, son implantation, sa nomenclature, le code source et le binaire du logiciel de test, et ses notes de version. Rien n'y est recopié ici.
+
 ## Ce qui manque
 
 | Manque | Conséquence |
 |---|---|
-| Code source et binaire du logiciel du dsPIC33 | Impossible de reprogrammer ou de reconstruire le logiciel du banc à partir des archives. Il faudrait relire le dsPIC du banc, s'il n'est pas protégé en lecture. |
-| Fichiers Altium (`.SchDoc`, `.PcbDoc`) de la SI841A | Le schéma n'existe qu'en PDF |
-| Routage final et nomenclature de la SI841A | Seule la version non routée est disponible |
-| Notice d'utilisation du banc | Le mode opératoire est déduit de la spec |
+| Notice d'utilisation du banc | Le mode opératoire est déduit de la spec et du code |
 | Plan de câblage entre le lit de clous et la SI841A | La correspondance clou → connecteur n'est pas documentée |
 | Scans `EPSON005` et `EPSON006` | La numérotation saute de 004 à 007 |
 
@@ -48,11 +49,10 @@ Fichiers ajoutés : `README.md`, `docs/`, `logiciel/spec-soft-test-bp-v4.md`, `.
 - [ ] Le détecteur d'ouverture coupe bien la phase et le neutre du 230 V.
 - [ ] État des trois alimentations TDK-Lambda et des clous.
 - [ ] Type de liaison entre le lit de clous et la SI841A (nappe HE10 vue sur les photos).
-- [ ] Le dsPIC est-il lisible (protection de code) ? Si oui, sauvegarder son contenu dans ce dépôt.
+- [ ] Le logiciel chargé dans le banc est-il bien `Banc_BP_V2_FAST` ? Le relire et le comparer au `.hex` de `essensys-board-SC841A` (la protection en lecture est désactivée dans le code).
 - [ ] Compatibilité des positions de clous avec une SC944 indice D.
-- [ ] Retranscrire le tableau des mesures analogiques et des seuils.
 - [ ] Une des trois photos de 2016 a une fin de fichier abîmée (avertissement « premature end of data segment ») ; elle s'affiche tout de même.
 
 ## Remarque sur l'analyse
 
-Les archives ne contiennent que des documents (PDF, dessins, Gerber, photos). Il n'y a ni exécutable ni image de firmware : il n'y avait donc rien à décompiler. L'analyse a été faite par lecture des documents et extraction du texte des PDF.
+Les archives de ce dépôt ne contiennent que des documents. La première version de cette documentation (11/11/2026) affirmait à tort que le logiciel et les fichiers de conception étaient perdus et que la SI841A n'était pas la SC841A : le dépôt `essensys-board-SC841A` n'avait pas été consulté. La correction du même jour s'appuie sur la lecture de son code source.

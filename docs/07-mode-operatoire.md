@@ -1,11 +1,11 @@
 # 7. Mode opératoire
 
-Reconstitué à partir de la spécification du logiciel et de la face avant. **Aucune notice d'utilisation n'a été retrouvée** : ce mode opératoire est une déduction, à valider sur le banc.
+Reconstitué à partir de la spécification du logiciel, de son code source et de la face avant. **Aucune notice d'utilisation n'a été retrouvée** : ce mode opératoire est une déduction, à valider sur le banc.
 
 ## Avant de commencer
 
 - Le banc n'a pas été mis sous tension depuis des années. Contrôler d'abord, hors tension : l'état des clous et des ressorts, les câbles, les alimentations, et le fonctionnement du détecteur d'ouverture qui coupe le 230 V (voir [architecture](02-architecture.md)).
-- Le firmware de la carte testée doit être en mode test. La temporisation de 6,5 s de l'étape « pilotage » a été réglée pour la version 092-31 ; une autre version peut demander une autre valeur.
+- Le firmware de la carte testée doit être en mode test. D'après les notes de version du logiciel du banc, il faut un BP en version 091-30 ou plus récente (temporisation de passage en secouru réduite en mode test).
 - Le banc injecte du 230 V sur la partie fil pilote. Ne jamais ouvrir le coffret sous tension.
 
 ## Déroulé

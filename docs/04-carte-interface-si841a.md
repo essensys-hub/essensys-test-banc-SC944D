@@ -4,7 +4,7 @@ Source : `carte-interface-SI841A/schema/schema-banc-bp-v4.pdf` (Altium Designer,
 
 La SI841A est la grande carte verte en façade du banc. La nomenclature ARF Test l'appelle « Carte Clavier » (référence SI841AA, fournie par Valentinéa). Le cartouche du schéma l'appelle « Carte banc de test BP » sur le sommaire et « Carte banc de test BA » sur les autres folios : c'est une coquille du cartouche, la carte teste bien le BP.
 
-> Ne pas confondre avec la **SC841A** du dépôt `essensys-board-SC841A`, qui est une autre carte.
+> La SI841A est la carte du dépôt public **`essensys-board-SC841A`**. Ce dépôt contient le projet Altium complet (`.SchDoc`, `.PcbDoc`), les Gerber de fabrication, l'implantation, la nomenclature et le logiciel. Le schéma PDF archivé ici (04/10/2014) est antérieur à celui du dépôt public (`Câblage/Schemas_SI841A.PDF`, 30/11/2014) : en cas d'écart, le dépôt public fait foi.
 
 ![Sommaire du schéma](images/schema-sommaire.png)
 
@@ -52,7 +52,7 @@ Relevés dans le texte du schéma (préfixe `UC_`). `_V` et `_R` sont les deux c
 
 | Repère | Composant | Fiche |
 |---|---|---|
-| Microcontrôleur | Microchip dsPIC33FJ256GP710 | – |
+| Microcontrôleur | Microchip dsPIC33FJ256GP710A (quartz HS avec PLL, d'après les bits de configuration du code) | – |
 | Voyants bicolores | Kingbright L-937EGW (rouge et vert) | `datasheets/composants/` |
 | Commande des voyants | Diodes Inc. ZXMN3A01F (MOS canal N) | `datasheets/composants/` |
 | Roue libre des relais | Diodes Inc. BAT54C | `datasheets/composants/` |
@@ -75,6 +75,19 @@ Relevés dans le texte du schéma (préfixe `UC_`). `_V` et `_R` sont les deux c
 | 4 | CLK |
 | 5 | DAT |
 
+## Logiciel
+
+Projet MPLAB X `Banc_BP_V2_FAST` dans `essensys-board-SC841A/SC841A/Prog/` : sources C, fichier `.hex` de production (24/02/2015) et notes de version. La protection en lecture du microcontrôleur est désactivée dans les bits de configuration.
+
+| Fichier | Rôle |
+|---|---|
+| `main.c` | Bits de configuration, enchaînement : attente du strap, 21 s, tests |
+| `Fonction_Test.c` | Séquence de test et allumage des voyants |
+| `Fonction_Alim.c` | Mesures analogiques (moyenne de 8 échantillons) |
+| `Fonction_I2C.c` | Réponse aux trames du bus BA |
+| `Fonction_LED.c`, `Fonction_Init.c`, `Fonction_Clk.c` | Voyants, initialisation, horloge et temporisations |
+| `Banc_BP.h` | Noms des voyants et seuils de mesure |
+
 ## Face avant
 
 ![Dessin de la face avant, v5](images/face-avant-ci-v5.png)
@@ -88,4 +101,4 @@ Relevés dans le texte du schéma (préfixe `UC_`). `_V` et `_R` sont les deux c
 
 ## Fichiers de fabrication
 
-`gerber-non-route-envoye-arf-test/` contient les Gerber et les perçages de la SI841A **avant routage** : les couches internes `IN1` et `IN2` sont vides. Ces fichiers ont servi à ARF Test pour la mécanique (contour, trous, sérigraphie). Le routage final n'est pas dans les archives.
+`gerber-non-route-envoye-arf-test/` contient les Gerber et les perçages de la SI841A **avant routage** : les couches internes `IN1` et `IN2` sont vides. Ces fichiers ont servi à ARF Test pour la mécanique (contour, trous, sérigraphie). Les Gerber routés (17/11/2014) sont dans `essensys-board-SC841A/SC841A/GERBERS/`.

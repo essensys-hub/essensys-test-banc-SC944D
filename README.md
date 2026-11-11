@@ -12,10 +12,10 @@ Archives et documentation du **banc de test de production du boîtier principal 
 |---|---|
 | Rôle | Tester en fin de fabrication chaque carte BP : alimentations, pilotage et forçage du +15VSP, alimentations d'alarme, bus du boîtier auxiliaire (BA), puis entrées et sorties à la main |
 | Mécanique | Interface à lit de clous ARF Test « ARF-PLC 320 », affaire **6281**, n° de série 6281-4514/001, étiquette d'inventaire 0010630 |
-| Électronique | Carte d'interface **SI841A** (« carte banc de test BP »), microcontrôleur dsPIC33FJ256GP710, 19 folios |
+| Électronique | Carte d'interface **SI841A** (« carte banc de test BP »), microcontrôleur dsPIC33FJ256GP710A, 19 folios. Conception et logiciel : dépôt public [`essensys-board-SC841A`](https://github.com/essensys-hub/essensys-board-SC841A) |
 | Carte testée | SC944 (points de test relevés sur la SI944C), 74 points de test + Ethernet |
 | Période | Étude de juillet 2014 à février 2015 (Valentinéa) |
-| Suivi | [essensys-hub/essensys-doc#36](https://github.com/essensys-hub/essensys-doc/issues/36) |
+| Suivi | [essensys-hub/essensys-doc#36](https://github.com/essensys-hub/essensys-doc/issues/36), corrigé par [#38](https://github.com/essensys-hub/essensys-doc/issues/38) |
 
 ## Documentation
 
@@ -48,6 +48,14 @@ photos/                   photos du banc (2016 et 2026)
 docs/                     documentation rédigée
 ```
 
-## Ce qui manque
+## Où trouver quoi
 
-Les archives ne contiennent **ni le code source ni le binaire** du logiciel du dsPIC, ni les fichiers Altium d'origine (`.SchDoc`, `.PcbDoc`), ni le routage final de la SI841A. Voir [docs/08-inventaire.md](docs/08-inventaire.md).
+| Besoin | Où |
+|---|---|
+| Fichiers Altium, routage final, Gerber de fabrication, nomenclature de la SI841A | `essensys-board-SC841A` (public) |
+| Code source et binaire du logiciel de test (`Banc_BP_V2_FAST`), notes de version | `essensys-board-SC841A/SC841A/Prog/` |
+| Spécification du logiciel, plans des points de test, mécanique, croquis, photos | ici |
+
+Banc cousin pour les boîtiers auxiliaires : dépôt privé `essensys-test-banc-BoitierSecondaire`.
+
+Ce qui manque encore : une notice d'utilisation et le plan de câblage du lit de clous. Voir [docs/08-inventaire.md](docs/08-inventaire.md).

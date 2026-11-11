@@ -2,7 +2,7 @@
 
 Source : `logiciel/spec-soft-test-bp-v4.doc` (v4.0 du 24/02/2015, N. Gille), transcrite dans [`logiciel/spec-soft-test-bp-v4.md`](../logiciel/spec-soft-test-bp-v4.md).
 
-Cette séquence est celle du logiciel du dsPIC de la carte d'interface. Le code lui-même n'est pas dans les archives.
+Cette séquence est celle du logiciel du dsPIC de la carte d'interface. Le code source est publié dans `essensys-board-SC841A/SC841A/Prog/Banc_BP_V2_FAST/` ; ses notes de version le disent conforme à cette spécification v4. Les seuils ci-dessous viennent du code.
 
 ```mermaid
 flowchart TD
@@ -52,13 +52,32 @@ La spec insiste sur l'ordre, pour ne jamais laisser la carte sans alimentation :
 
 Le strap de forçage du +15VSP est un bouton à deux voies : une voie fait le strap lui-même, l'autre renvoie son image au dsPIC sur l'entrée « palpeur ». L'opérateur le met au début et le retire quand **F** clignote.
 
-## Mesures analogiques
+## Seuils de mesure
 
-L'annexe de la v4 est un tableau manuscrit : `etude/mesures-analogiques-annexe-spec-v4.pdf`. Pour chaque tension, il donne la valeur réelle, la valeur après le pont diviseur, la valeur binaire et la valeur hexadécimale lues par le convertisseur 12 bits. En noir : valeur nominale mesurée. En rouge : seuil.
+Le convertisseur est sur 12 bits (0 à 4095) et chaque tension passe par un pont diviseur. Les seuils sont dans `Banc_BP.h` du dépôt `essensys-board-SC841A`. Une mesure est bonne si elle est **au-dessus** du seuil, sauf mention contraire.
 
-Lignes du tableau : 15V, 15VS, 5VS, 3V3S, 15VSP, 12VSP, 15VS secouru, 5VS secouru, 3V3S secouru, 15VSP secouru, 12VSP pilotage, DPR1 ALIM, DPR2 ALIM, SINT ALIM, SEXT ALIM, BA ALIM.
+| Mesure | Seuil | Mesure | Seuil |
+|---|---|---|---|
+| 15V | 3980 | 15VS en secouru | 2792 |
+| 15VS | 3850 | 5VS en secouru | 3509 |
+| 5VS | 3500 | 3V3S en secouru | 3752 |
+| 3V3S | 3749 | +15VSP en secouru | **inférieur** à 25 |
+| +15VSP | 3844 | +15VSP au forçage | 2786 |
+| +12VSP | 3555 | Alim détecteur de présence 1 | 3719 |
+| Alim bus BA | 3722 | Alim détecteur de présence 2 | 3721 |
+| Alim sirène intérieure | 3722 | Alim sirène extérieure | 3719 |
 
-> Le tableau n'est pas retranscrit ici : l'écriture est difficile à lire et une erreur de seuil serait pire que l'absence de valeur. À retranscrire par quelqu'un qui peut le comparer au banc.
+Le tableau manuscrit `etude/mesures-analogiques-annexe-spec-v4.pdf` est le relevé qui a servi à fixer ces seuils (valeur réelle, valeur après le pont, valeur lue ; en noir la valeur nominale, en rouge le seuil).
+
+## Écarts entre la spécification et le code
+
+Relevés à la lecture de `Fonction_Test.c` :
+
+- **Voyant P** : vert si le +15VSP était au-dessus de son seuil sous secteur **et** en dessous de 25 en secouru.
+- **Voyant F** : pendant l'attente du retrait du strap, il alterne rouge et vert (la spec dit « clignote rouge »). Le premier contrôle du forçage ne refait pas de mesure : il réutilise la mesure du +15VSP en secouru.
+- **Commutation** : les deux relais d'alimentation restent fermés ensemble 100 ms avant la coupure de l'ancienne tension.
+- **Version du BP** : les notes de version annoncent un fonctionnement à partir du BP **091-30** ; la spec cite la 092-31.
+- **Bus BA** : la réponse aux trames se fait par interruption I2C ; la boucle principale ne fait plus rien après les mesures.
 
 ## Signal des sirènes
 

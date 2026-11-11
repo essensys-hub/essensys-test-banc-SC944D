@@ -20,7 +20,7 @@ Dans la spécification, la carte testée est appelée **UUT** (*unit under test*
 | Élément | Description | Source |
 |---|---|---|
 | Interface mécanique | Coffret ARF Test « ARF-PLC 320 » avec presse à levier, plaque porte-carte « 944-BP » et lit de clous | `mecanique-arf-test-6281/` |
-| Carte d'interface SI841A | Grande carte verte en façade : écran, boutons, voyants, dsPIC33 | `carte-interface-SI841A/` |
+| Carte d'interface SI841A | Grande carte verte en façade : écran, boutons, voyants, dsPIC33 | `carte-interface-SI841A/`, dépôt `essensys-board-SC841A` |
 | Alimentations rail DIN | TDK-Lambda 24 V, 12 V et 5 V (références dans la nomenclature) | `mecanique-arf-test-6281/BOM/` |
 | Routeur | D-Link DIR-100, pour la liaison Ethernet de la carte | `datasheets/routeur/` |
 | Compteur | Compteur EDF Landis+Gyr monophasé, source de téléinformation (voir croquis) | `datasheets/compteur-landis-gyr/`, `etude/croquis-alimentations-banc.pdf` |
